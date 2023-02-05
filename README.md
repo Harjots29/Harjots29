@@ -7,5 +7,5 @@
 - I'm currently studying in Mehr Chand Polytechnic College
 
 
-- 📫 How to reach me: 6283405923
+- 📫 How to reach me by Email : Harjot90414singh@gmail.com
 
