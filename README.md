@@ -1,3 +1,4 @@
+![logo](https://github.com/Harjots29/Harjots29/blob/main/github%20banner.gif)
 <h1 align="center">Hi 👋, I'm Harjot Singh</h1>
 <h3 align="center">A passionate Android Developer</h3>
 
