@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harjots29&label=Profile%20views&color=0e75b6&style=flat" alt="harjots29" /> </p>
 
-- 🌱 I’m currently learning **Firebase,Dart...**
+- 🌱 I’m currently learning **Firebase,Dart,FullStack..**
 
 - 📫 How to reach me **harjot2924singh@gmail.com**
 
