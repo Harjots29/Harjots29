@@ -6,8 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harjots29&label=Profile%20views&color=0e75b6&style=flat" alt="harjots29" /> </p>
 
-- 🌱 I’m currently learning **Firebase,Dart,FullStack..**
-
+- 🌱 Working with Firebase, Retrofit2, Jetpack Compose, XML, Kotlin
+- 🚀 Building robust apps using MVVM, Coroutines, Room DB, Flow, and State
+- 🔧 Exploring Ktor for backend integration in Android projects
 - 📫 How to reach me **harjot2924singh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
